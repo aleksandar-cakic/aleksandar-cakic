@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi I'm Alex 👋
 
-<!--
-**aleksandar-cakic/aleksandar-cakic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+const i = {
+  am: ['software engineer', 'muay thai fighter', 'EDM music aficionado', 'coffee enthusiast', 'Drake fan'],
+  loveTo: ['write code', 'workout', 'read', 'travel', 'invest in crypto', 'cook healthy food'],
+  recently: ['bought my first crypto', 'drank some coffee'],
+  aspire: "to build a life doing what I love, so work doesn't feel like work"
+};
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandar-cakic)](https://github.com/anuraghazra/github-readme-stats)
+
+Frontend
+JavaScript HTML CSS SASS Gatsby React React Native Vue.js Bootstrap JQuery JQuery
+Backend
+Node Express C# .NET Postgres MySQL MongoDB SQL Server
+Dev Tools
+Git npm Expo Postman Webpack Babel EsLint Prettier
+Testing/Deployment
+Jest Mocha Chai Heroku AWS Digital Ocean Azure DevOps CircleCI
+Random
+Google sheets Framer 
