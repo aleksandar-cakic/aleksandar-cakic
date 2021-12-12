@@ -1,6 +1,6 @@
 ### Hi I'm Alex 👋
 
-![image]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
