@@ -6,6 +6,8 @@
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
+### Who am I
+
 ```javascript
 const i = {
   am: ['software engineer', 'muay thai fighter', 'EDM music aficionado', 'coffee enthusiast', 'Drake fan'],
@@ -50,6 +52,7 @@ https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&l
 #### Random
 Googling
 
+### My Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandar-cakic&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleksandar-cakic&show_icons=true&theme=dark)
 
