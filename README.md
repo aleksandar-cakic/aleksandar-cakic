@@ -1,6 +1,6 @@
 ### Hi I'm Alex 👋
 
-![acakic92@gmail.com](https://img.shields.io/badge/acakic92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white, mailto:acakic92@gmail.com)
+![mailto:acakic92@gmail.com](https://img.shields.io/badge/acakic92@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
