@@ -3,7 +3,7 @@
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
-```
+```javascript
 const i = {
   am: ['software engineer', 'muay thai fighter', 'EDM music aficionado', 'coffee enthusiast', 'Drake fan'],
   loveTo: ['write code', 'workout', 'read', 'travel', 'invest in crypto', 'cook healthy food'],
