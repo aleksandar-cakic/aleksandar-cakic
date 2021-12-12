@@ -2,6 +2,7 @@
 
 <a href="mailto:acakic92@gmail.com?"><img src="https://img.shields.io/badge/acakic92@gmail.com-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/aleksandarcakic/"><img src="https://img.shields.io/badge/AleksandarCakic-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://gist.github.com/aleksandar-cakic"><img src="https://img.shields.io/badge/Engineering Journals-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 Check out my README to see what I'm all about! Please reach out and say hi, I'd love to connect!
 
